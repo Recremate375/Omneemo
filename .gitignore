@@ -1,0 +1,26 @@
+# Ignore base package
+
+AnalyticsDashboard/
+Base/
+CampaignDesigner/
+CaseService/
+ContentBuilder/
+CoreForecast/
+Custom/
+Deduplication/
+DesignerTools/
+Exchange/
+HomePage/
+IntegrationV2/
+MarketingCampaign/
+NUI/
+OmnichannelMessaging/
+OpenIdAuth/
+PivotTable/
+RelationshipDesigner/
+ServiceDesigner/
+ServiceModel/
+SspWorkplace/
+Tracking/
+UIv2/
+Workplace/
